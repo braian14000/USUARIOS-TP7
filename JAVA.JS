@@ -77,7 +77,7 @@ function OcultarForm() {
 
 
 function mostrarPersonaAnterior() {
-  if (i > 0) {í
+  if (i > 0) {
     i--; 
     mostrarPersona(); 
 
