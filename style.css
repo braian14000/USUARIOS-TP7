@@ -1,0 +1,49 @@
+body {
+  background-image: url(image.png);
+  background-repeat: no-repeat;
+  }
+
+
+
+  form {
+    margin: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"], input[type="number"] {
+    width: 50%;
+    height: 30px;
+    font-size: 18px;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    width: 150px;
+    height: 40px;
+    font-size: 18px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+ 
+
+  #info{
+    text-align: center;
+    
+  }
+  #form{
+    text-align: center;
+  }
+  #info {
+    font-size: 40px;
+    font-weight: normal 
+}
+
